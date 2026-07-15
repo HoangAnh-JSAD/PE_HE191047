@@ -23,7 +23,7 @@ final userRepositoryProvider = AutoDisposeProvider<UserRepository>.internal(
 @Deprecated('Will be removed in 3.0. Use Ref instead')
 // ignore: unused_element
 typedef UserRepositoryRef = AutoDisposeProviderRef<UserRepository>;
-String _$userViewModelHash() => r'3c2d9dde7691dcafec80d053f76c7567b0058fcc';
+String _$userViewModelHash() => r'2f2d2fcaf46c8e07fa0a42eaa9ebcf2e4f0bec7c';
 
 /// See also [UserViewModel].
 @ProviderFor(UserViewModel)

@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="pe_he191047"
+        android:label="user_manager_exam_standard"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
